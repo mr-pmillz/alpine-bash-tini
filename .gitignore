@@ -1,0 +1,7 @@
+/.idea
+.idea
+*.log
+*.json
+RELEASE_CHANGELOG.md
+report.xml
+coverage.xml

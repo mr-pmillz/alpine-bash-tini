@@ -1,0 +1,15 @@
+.github/*
+.gitlab/*
+**/*.swp
+**/*.swo
+/.idea
+.idea
+*.log
+*.txt
+build_image.sh
+push_image.sh
+Makefile
+README.md
+cliff.toml
+Dockerfile
+CHANGELOG.md
