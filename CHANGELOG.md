@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented [here](https://github.com/mr-pmillz/alpine-bash-tini/blob/main/CHANGELOG.md?ref_type=heads)
 
+## [0.0.3](https://github.com/mr-pmillz/alpine-bash-tini/compare/v0.0.2...v0.0.3) - 2025-04-09
+
+### 🛠 Improvements
+
+- Updated cicd action image versions to use latest - ([f2e809a](https://github.com/mr-pmillz/alpine-bash-tini/commit/f2e809a482b21fd99b64dcdc357cef6f60e74a97))
+
+## [0.0.2](https://github.com/mr-pmillz/alpine-bash-tini/compare/v0.0.1...v0.0.2) - 2025-04-09
+
+### 🛠 Improvements
+
+- Update readme, initialize changelog - ([0a763e6](https://github.com/mr-pmillz/alpine-bash-tini/commit/0a763e6a3bcc9830fca9d00b0bb8742e193f413f))
+
 ## [0.0.1] - 2025-04-09
 
 ### ⚙️  Miscellaneous
