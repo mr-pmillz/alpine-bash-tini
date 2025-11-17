@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented [here](https://github.com/mr-pmillz/alpine-bash-tini/blob/main/CHANGELOG.md?ref_type=heads)
 
+## [0.0.4](https://github.com/mr-pmillz/alpine-bash-tini/compare/v0.0.3...v0.0.4) - 2025-11-17
+
+### ✨ New features
+
+- Added curl - ([4b25059](https://github.com/mr-pmillz/alpine-bash-tini/commit/4b25059929a6e5c11deba0abc872a22fb91b68ff))
+
+### 🛠 Improvements
+
+- Update changelog :books: - ([47916b6](https://github.com/mr-pmillz/alpine-bash-tini/commit/47916b69123f6cd1f8516a2009864b17abb7a409))
+
 ## [0.0.3](https://github.com/mr-pmillz/alpine-bash-tini/compare/v0.0.2...v0.0.3) - 2025-04-09
 
 ### 🛠 Improvements
